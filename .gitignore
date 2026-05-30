@@ -1,0 +1,7 @@
+build/
+logs/
+.wiremark-git/
+*.key
+*.o
+*.a
+*.so
